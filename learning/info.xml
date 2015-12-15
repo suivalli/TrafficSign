@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>Training signs</name>
+<comment>These are images from the Google Street View.</comment>
+<images>
+  <image file='Capture.PNG'>
+	<box top='168' left='41' width='129' height='121'/>
+	</image>
+<image file='Capture1.PNG'>
+<box top='144' left='70' width='104' height='98'/>
+<box top='251' left='68' width='96' height='95'/>
+</image>
+<image file='Capture2.PNG'>
+<box top='38' left='28' width='54' height='44'/>
+</image>
+<image file='Capture3.PNG'>
+<box top='58' left='37' width='73' height='72'/>
+<box top='116' left='261' width='53' height='43'/>
+</image>
+<image file='Capture4.PNG'>
+<box top='15' left='32' width='78' height='69'/>
+</image>
+<image file='Capture5.PNG'>
+<box top='65' left='77' width='239' height='237'/>
+</image>
+<image file='Capture6.PNG'>
+<box top='31' left='130' width='76' height='91'/>
+<box top='105' left='5' width='62' height='63'/>
+</image>
+<image file='Capture7.PNG'>
+<box top='154' left='18' width='98' height='103'/>
+</image>
+<image file='Capture8.PNG'>
+<box top='174' left='43' width='84' height='79'/>
+</image>
+<image file='Capture9.PNG'>
+<box top='78' left='43' width='73' height='76'/>
+</image>
+</images>
+</dataset>

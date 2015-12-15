@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>Training signs</name>
+<comment>These are images from the Google Street View.</comment>
+<images>
+  <image file='Capture.PNG'>
+	<box top='98' left='127' width='76' height='92'/>
+	</image>
+<image file='Capture1.PNG'>
+<box top='66' left='284' width='104' height='122'/>
+</image>
+<image file='Capture2.PNG'>
+<box top='29' left='72' width='103' height='149'/>
+</image>
+<image file='Capture3.PNG'>
+<box top='22' left='641' width='123' height='143'/>
+</image>
+</images>
+</dataset>
